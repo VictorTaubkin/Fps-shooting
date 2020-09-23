@@ -64,9 +64,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs" />
+    <Compile Include="Assets\Scripts\NPCMotion.cs" />
     <Compile Include="Assets\Scripts\PickGun.cs" />
     <Compile Include="Assets\Scripts\PlayerMotion.cs" />
     <Compile Include="Assets\Scripts\Shooting.cs" />
+    <None Include="Assets\SpartanKing\animations.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
